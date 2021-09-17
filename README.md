@@ -74,7 +74,7 @@ This project is a multi-class classification problem. The goal is to predict whi
 
 ## Proof of submission
 DrivenData username: moracse_170141X
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/Hacko97/MLProject_Pump_it_Up_Data_Mining_the_Water_Table/blob/main/proof_of_submission.png)
 
 
 
