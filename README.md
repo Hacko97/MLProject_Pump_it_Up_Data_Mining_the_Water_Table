@@ -1,3 +1,4 @@
+https://github.com/Hacko97/MLProject_Pump_it_Up_Data_Mining_the_Water_Table
 # Machine Learning Project : Pump it Up: Data Mining the Water Table 
 ## Introduction
 This project is a multi-class classification problem. The goal is to predict which pumps are working, which need repair, and which are not working at all. To solve this problem, the data will be loaded and explored to address its quality and apply the data cleansing method to get ordered data. The data will be used to train a classifier based on the method of random forests. Finally, the model will be tested on a cross-validation dataset before predicting which classes of the given test dataset should be submitted to the competition website.
