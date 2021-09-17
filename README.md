@@ -1,8 +1,8 @@
 # Machine Learning Project : Pump it Up: Data Mining the Water Table 
-Github link : https://github.com/Hacko97/MLProject_Pump_it_Up_Data_Mining_the_Water_Table
-Competiton link: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
-Accuracy of best model : 0.8251
-Final Rank : 261(As of 17th September 2021)
+- Github link : https://github.com/Hacko97/MLProject_Pump_it_Up_Data_Mining_the_Water_Table
+- Competiton link: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+- Accuracy of best model : 0.8251
+- Final Rank : 261(As of 17th September 2021)
 
 ## Introduction
 This project is a multi-class classification problem. The goal is to predict which pumps are working, which need repair, and which are not working at all. To solve this problem, the data will be loaded and explored to address its quality and apply the data cleansing method to get ordered data. The data will be used to train a classifier based on the method of random forests. Finally, the model will be tested on a cross-validation dataset before predicting which classes of the given test dataset should be submitted to the competition website.
@@ -72,7 +72,9 @@ This project is a multi-class classification problem. The goal is to predict whi
 - best hyperparameters values: RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini', max_depth=22, max_features='auto', max_leaf_nodes=None, min_impurity_decrease=0.0, min_impurity_split=None, min_samples_leaf=1, min_samples_split=2, min_weight_fraction_leaf=0.0, n_estimators=600, n_jobs=1,oob_score=False, random_state=0, verbose=0, warm_start=False) 
 
 
-
+##Proof of submission
+DrivenData username: moracse_170141X
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
